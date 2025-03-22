@@ -1,0 +1,28 @@
+---
+title: "米凯凯 硕士"
+---
+
+::: {.profile-section}
+![学术肖像](avatar.jpg){.profile-img}
+
+**材料科学与工程博士**  
+香港科技大学 · 2025届  
+研究方向：纳米材料在新能源存储中的应用  
+:::
+
+::: {.research-interests}
+## 研究方向
+- 锂离子电池负极材料设计
+- 固态电解质界面优化
+- 纳米结构表征技术
+- 电化学仿真建模
+:::
+
+::: {.latest-publications}
+## 近期发表
+```{r}
+#| echo: false
+library(DT)
+datatable(read.csv("publications.csv"))
+```
+:::

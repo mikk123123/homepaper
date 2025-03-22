@@ -1,0 +1,19 @@
+{
+  "hash": "07d7c9cc715681c8929da147a88c21c0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"米凯凯 硕士\"\n---\n\n\n\n\n::: {.profile-section}\n![学术肖像](avatar.jpg){.profile-img}\n\n**材料科学与工程博士**  \n香港科技大学 · 2025届  \n研究方向：纳米材料在新能源存储中的应用  \n:::\n\n::: {.research-interests}\n## 研究方向\n- 锂离子电池负极材料设计\n- 固态电解质界面优化\n- 纳米结构表征技术\n- 电化学仿真建模\n:::\n\n::: {.latest-publications}\n## 近期发表\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'DT' was built under R version 4.4.3\n```\n\n\n:::\n\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"datatables html-widget html-fill-item\" id=\"htmlwidget-eb9c9d95eaa6a0afb2f0\" style=\"width:100%;height:auto;\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-eb9c9d95eaa6a0afb2f0\">{\"x\":{\"filter\":\"none\",\"vertical\":false,\"data\":[[\"1\",\"2\",\"3\"],[\"Interface Engineering of MXene-Based Lithium Metal Anodes\",\"In-situ TEM Observation of Lithium Dendrite Growth\",\"Machine Learning Assisted Materials Screening for Solid-State Batteries\"],[\"Advanced Energy Materials\",\"Nano Letters\",\"ACS Applied Materials &amp; Interfaces\"],[2024,2023,2022],[\"10.1002/aenm.202304567\",\"10.1021/acs.nanolett.3c00012\",\"10.1021/acsami.2c12345\"]],\"container\":\"<table class=\\\"display\\\">\\n  <thead>\\n    <tr>\\n      <th> <\\/th>\\n      <th>Title<\\/th>\\n      <th>Journal<\\/th>\\n      <th>Year<\\/th>\\n      <th>DOI<\\/th>\\n    <\\/tr>\\n  <\\/thead>\\n<\\/table>\",\"options\":{\"columnDefs\":[{\"className\":\"dt-right\",\"targets\":3},{\"orderable\":false,\"targets\":0},{\"name\":\" \",\"targets\":0},{\"name\":\"Title\",\"targets\":1},{\"name\":\"Journal\",\"targets\":2},{\"name\":\"Year\",\"targets\":3},{\"name\":\"DOI\",\"targets\":4}],\"order\":[],\"autoWidth\":false,\"orderClasses\":false}},\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"site_libs/htmltools-fill-0.5.8.1/fill.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<link href=\"site_libs/datatables-css-0.0.0/datatables-crosstalk.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/datatables-binding-0.33/datatables.js\"></script>\n<script src=\"site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css\" rel=\"stylesheet\" />\n<link href=\"site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js\"></script>\n<link href=\"site_libs/crosstalk-1.2.1/css/crosstalk.min.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/crosstalk-1.2.1/js/crosstalk.min.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

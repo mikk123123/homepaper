@@ -1,0 +1,19 @@
+{
+  "hash": "67e3a4ec73c97d51857d3ef3f56a1027",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"学术成果\"\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'DT' was built under R version 4.4.3\n```\n\n\n:::\n\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"datatables html-widget html-fill-item\" id=\"htmlwidget-6773e8de910a4fb7e4f7\" style=\"width:100%;height:auto;\"></div>\n<script type=\"application/json\" data-for=\"htmlwidget-6773e8de910a4fb7e4f7\">{\"x\":{\"filter\":\"none\",\"vertical\":false,\"data\":[[\"1\",\"2\",\"3\"],[\"Interface Engineering of MXene-Based Lithium Metal Anodes\",\"In-situ TEM Observation of Lithium Dendrite Growth\",\"Machine Learning Assisted Materials Screening for Solid-State Batteries\"],[\"Advanced Energy Materials\",\"Nano Letters\",\"ACS Applied Materials &amp; Interfaces\"],[2024,2023,2022],[\"10.1002/aenm.202304567\",\"10.1021/acs.nanolett.3c00012\",\"10.1021/acsami.2c12345\"]],\"container\":\"<table class=\\\"display\\\">\\n  <thead>\\n    <tr>\\n      <th> <\\/th>\\n      <th>Title<\\/th>\\n      <th>Journal<\\/th>\\n      <th>Year<\\/th>\\n      <th>DOI<\\/th>\\n    <\\/tr>\\n  <\\/thead>\\n<\\/table>\",\"options\":{\"pageLength\":5,\"autoWidth\":true,\"columnDefs\":[{\"className\":\"dt-right\",\"targets\":3},{\"orderable\":false,\"targets\":0},{\"name\":\" \",\"targets\":0},{\"name\":\"Title\",\"targets\":1},{\"name\":\"Journal\",\"targets\":2},{\"name\":\"Year\",\"targets\":3},{\"name\":\"DOI\",\"targets\":4}],\"order\":[],\"orderClasses\":false,\"lengthMenu\":[5,10,25,50,100]}},\"evals\":[],\"jsHooks\":[]}</script>\n```\n\n:::\n:::\n\n\n\n\n## 代表性论文\n1. Mi, K., et al. (2024). \"Interface Engineering of MXene-Based Lithium Metal Anodes\", *Advanced Energy Materials*, 14(18), 2304567\n2. Wang, J., **Mi, K.**, et al. (2023). \"In-situ TEM Observation of Lithium Dendrite Growth\", *Nano Letters*, 23(5), 1892-1900\n3. **Mi, K.**, et al. (2022). \"Machine Learning Assisted Materials Screening for Solid-State Batteries\", *ACS Applied Materials & Interfaces*, 14(32), 36789-36801\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"site_libs/htmltools-fill-0.5.8.1/fill.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/htmlwidgets-1.6.4/htmlwidgets.js\"></script>\n<link href=\"site_libs/datatables-css-0.0.0/datatables-crosstalk.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/datatables-binding-0.33/datatables.js\"></script>\n<script src=\"site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css\" rel=\"stylesheet\" />\n<link href=\"site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js\"></script>\n<link href=\"site_libs/crosstalk-1.2.1/css/crosstalk.min.css\" rel=\"stylesheet\" />\n<script src=\"site_libs/crosstalk-1.2.1/js/crosstalk.min.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

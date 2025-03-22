@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Li Ming Academic Portfolio"
+  site-url: https://[your-github-username].github.io/personal-website/
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: education.qmd
+        text: 教育背景
+      - href: publications.qmd 
+        text: 学术成果
+      - href: honors.qmd
+        text: 获奖荣誉
+      - href: contact.qmd
+        text: 联系方式
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    code-fold: true

@@ -1,0 +1,17 @@
+---
+title: "学术成果"
+---
+
+```{r}
+#| echo: false
+library(DT)
+datatable(
+  read.csv("publications.csv"),
+  options = list(pageLength = 5, autoWidth = TRUE)
+)
+```
+
+## 代表性论文
+1. Mi, K., et al. (2024). "Interface Engineering of MXene-Based Lithium Metal Anodes", *Advanced Energy Materials*, 14(18), 2304567
+2. Wang, J., **Mi, K.**, et al. (2023). "In-situ TEM Observation of Lithium Dendrite Growth", *Nano Letters*, 23(5), 1892-1900
+3. **Mi, K.**, et al. (2022). "Machine Learning Assisted Materials Screening for Solid-State Batteries", *ACS Applied Materials & Interfaces*, 14(32), 36789-36801
